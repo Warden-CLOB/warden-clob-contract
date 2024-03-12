@@ -1,1 +1,20 @@
-# wardeb-clob-contract
+# warden-clob-contract
+
+## Deployments:
+
+OP/USDC
+https://optimistic.etherscan.io/address/0x718d11531097E3B7c5039a75D6145DA58be1d2cC
+
+WBTC/USDC
+https://optimistic.etherscan.io/address/0x69B5Add9f72046D66689044A04Bec351b4765E61
+
+WETH/USDC
+https://optimistic.etherscan.io/address/0xBb3B4661a6A01df8A29dDc4cbCafdfB4B918EBB6
+
+Tokens:
+OP: 0x4200000000000000000000000000000000000042
+WBTC: 0x68f180fcCe6836688e9084f035309E29Bf0A2095
+WETH: 0x4200000000000000000000000000000000000006
+USDC: 0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85
+
+Compiler: v0.8.19+commit.7dd6d404
